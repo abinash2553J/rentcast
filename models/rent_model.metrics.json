@@ -1,0 +1,10 @@
+{
+  "n_rows_after_cleaning": 97973,
+  "r2": 0.613,
+  "mae_usd": 276.1,
+  "mape": 0.179,
+  "baseline_mae_usd": 500.3,
+  "interval_80_coverage_raw": 0.636,
+  "interval_80_coverage": 0.769,
+  "interval_pad_log": 0.064
+}

@@ -1,0 +1,9 @@
+[project]
+name = "rentcast"
+version = "0.1.0"
+description = "Predict US apartment rent with calibrated uncertainty ranges"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "."]
+testpaths = ["tests"]
